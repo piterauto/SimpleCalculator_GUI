@@ -1,5 +1,4 @@
-# Simple Kotlin Calculator with Graphical User Experience
-
+# Simple Kotlin Calculator with Graphical User Interface
 ## Calculator - Documentation
 
 #### Overview
